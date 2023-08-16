@@ -18,10 +18,10 @@
 要使用这个插件，需要先安装运动模拟器。它负责向宿主应用提供模拟数据，
 用WebSocket和ProtoBuf。
 
-你可以从 [我的网站](https://zhufucdev.com/article/peBx_1w5Njt27VZxxQvGi)或者 [GitHub](https://github.com/zhufucdev/MotionEmulator/releases)下载。
+你可以从[我的网站](https://zhufucdev.com/article/peBx_1w5Njt27VZxxQvGi)或者[GitHub](https://github.com/zhufucdev/MotionEmulator/releases)下载。
 
 也可以从LSPosed的模块仓库找到。
 
-### 激活
+### 激活插件
 
-安装后，从运动模拟器激活这个插件。你可以在[这里](https://zhufucdev.com/article/peBx_1w5Njt27VZxxQvGi)找到一个更为详细的教程。
+安装后，从运动模拟器激活这个插件。你可以在[这里](https://zhufucdev.com/article/gi0tSfKp-FIPVAAbkl64d)找到一个更为详细的教程。

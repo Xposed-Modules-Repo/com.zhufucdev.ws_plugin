@@ -17,10 +17,10 @@ DO NOT enable for System Framework, which is untested and highly unstable.
 
 To use this plug-in, Motion Emulator is to be installed, which provides emulation data using WebSocket and ProtoBuf for the host app.
 
-You can download it from [my site](https://zhufucdev.com/article/peBx_1w5Njt27VZxxQvGi) or [GitHub](https://github.com/zhufucdev/MotionEmulator/releases).
+You can download it from [my site](https://zhufucdev.com/article/qRnydwa-LGMhGrf43tSG_) or [GitHub](https://github.com/zhufucdev/MotionEmulator/releases).
 
 It is also possible to find it in the LSPosed repository.
 
-### Activation
+### Plugin Activation
 
-After installation, activate it in Motion Emulator. You can find a more detailed guide from [here](https://zhufucdev.com/article/qRnydwa-LGMhGrf43tSG_).
+After installation, activate it in Motion Emulator. You can find a more detailed guide from [here](https://zhufucdev.com/article/0xXK6YxSWe9nGwmmHQgsa).
