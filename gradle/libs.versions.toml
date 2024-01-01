@@ -1,0 +1,30 @@
+[versions]
+agp = "8.4.0-alpha01"
+kotlin = "1.9.0"
+coreKtx = "1.12.0"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+ksp = "1.9.0-1.0.12"
+coroutine = "1.7.2"
+me = "1.0.0"
+yuki = "1.2.0"
+xposed = "82"
+
+[libraries]
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+kotlinx-coroutines-android = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-android", version.ref = "coroutine" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+me-stub = { group = "com.zhufucdev.me", name = "stub", version.ref = "me" }
+me-plugin = { group = "com.zhufucdev.me", name = "plugin", version.ref = "me" }
+me-xposed = { group = "com.zhufucdev.me", name = "xposed", version.ref = "me" }
+yuki-ksp = { group = "com.highcapable.yukihookapi", name = "ksp-xposed", version.ref = "yuki" }
+yuki-api = { group = "com.highcapable.yukihookapi", name = "api", version.ref = "yuki" }
+xposed-api = { group = "de.robv.android.xposed", name = "api", version.ref = "xposed" }
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
